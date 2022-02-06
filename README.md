@@ -1,2 +1,2 @@
-# it-is-just.github.io
+# it is just
 It is just a webpage
